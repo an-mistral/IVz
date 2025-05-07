@@ -1,0 +1,258 @@
+[
+  {
+    "country":"Argentina",
+    "region":"South America",
+    "raceCount":20,
+    "lat":-34.6943,
+    "lng":-58.4593,
+    "location":"Buenos Aires"
+  },
+  {
+    "country":"Australia",
+    "region":"Oceania",
+    "raceCount":34,
+    "lat":-36.38845,
+    "lng":141.7925,
+    "location":"Adelaide, Melbourne"
+  },
+  {
+    "country":"Austria",
+    "region":"Europe",
+    "raceCount":31,
+    "lat":47.2144333333,
+    "lng":14.7590666667,
+    "location":"Spielburg, Styria"
+  },
+  {
+    "country":"Azerbaijan",
+    "region":"Other",
+    "raceCount":3,
+    "lat":40.3725,
+    "lng":49.8533,
+    "location":"Baku"
+  },
+  {
+    "country":"Bahrain",
+    "region":"Middle East",
+    "raceCount":14,
+    "lat":26.0325,
+    "lng":50.5106,
+    "location":"Sakhir"
+  },
+  {
+    "country":"Belgium",
+    "region":"Europe",
+    "raceCount":63,
+    "lat":50.6825666667,
+    "lng":5.18509,
+    "location":"Brussels, Heusden-Zolder, Spa"
+  },
+  {
+    "country":"Brazil",
+    "region":"South America",
+    "raceCount":46,
+    "lat":-23.3396,
+    "lng":-45.04735,
+    "location":"Rio de Janeiro, S\u00cc\u00a3o Paulo"
+  },
+  {
+    "country":"Canada",
+    "region":"North America",
+    "raceCount":49,
+    "lat":45.2452666667,
+    "lng":-75.6027666667,
+    "location":"Montreal, Ontario, Quebec"
+  },
+  {
+    "country":"China",
+    "region":"Asia",
+    "raceCount":15,
+    "lat":31.3389,
+    "lng":121.22,
+    "location":"Shanghai"
+  },
+  {
+    "country":"France",
+    "region":"Europe",
+    "raceCount":60,
+    "lat":47.1084714286,
+    "lng":3.1504201429,
+    "location":"Clermont-Ferrand, Dijon, Le Castellet, L"
+  },
+  {
+    "country":"Germany",
+    "region":"Europe",
+    "raceCount":77,
+    "lat":50.7146666667,
+    "lng":9.5882433333,
+    "location":"Berlin, Hockenheim, N\u00cc_rburg"
+  },
+  {
+    "country":"Hungary",
+    "region":"Europe",
+    "raceCount":33,
+    "lat":47.5789,
+    "lng":19.2486,
+    "location":"Budapest"
+  },
+  {
+    "country":"India",
+    "region":"Asia",
+    "raceCount":3,
+    "lat":28.3487,
+    "lng":77.5331,
+    "location":"Uttar Pradesh"
+  },
+  {
+    "country":"Italy",
+    "region":"Europe",
+    "raceCount":96,
+    "lat":44.1448333333,
+    "lng":11.7162033333,
+    "location":"Imola, Monza, Pescara"
+  },
+  {
+    "country":"Japan",
+    "region":"Asia",
+    "raceCount":36,
+    "lat":35.0432666667,
+    "lng":136.563,
+    "location":"Okayama, Oyama, Suzuka"
+  },
+  {
+    "country":"Korea",
+    "region":"Asia",
+    "raceCount":4,
+    "lat":34.7333,
+    "lng":126.417,
+    "location":"Yeongam County"
+  },
+  {
+    "country":"Malaysia",
+    "region":"Asia",
+    "raceCount":19,
+    "lat":2.76083,
+    "lng":101.738,
+    "location":"Kuala Lumpur"
+  },
+  {
+    "country":"Mexico",
+    "region":"North America",
+    "raceCount":19,
+    "lat":19.4042,
+    "lng":-99.0907,
+    "location":"Mexico City"
+  },
+  {
+    "country":"Monaco",
+    "region":"Europe",
+    "raceCount":65,
+    "lat":43.7347,
+    "lng":7.42056,
+    "location":"Monte-Carlo"
+  },
+  {
+    "country":"Morocco",
+    "region":"Other",
+    "raceCount":1,
+    "lat":33.5786,
+    "lng":-7.6875,
+    "location":"Casablanca"
+  },
+  {
+    "country":"Netherlands",
+    "region":"Europe",
+    "raceCount":30,
+    "lat":52.3888,
+    "lng":4.54092,
+    "location":"Zandvoort"
+  },
+  {
+    "country":"Portugal",
+    "region":"Europe",
+    "raceCount":16,
+    "lat":39.5469333333,
+    "lng":-9.09016,
+    "location":"Estoril, Lisbon, Oporto"
+  },
+  {
+    "country":"Russia",
+    "region":"Europe",
+    "raceCount":5,
+    "lat":43.4057,
+    "lng":39.9578,
+    "location":"Sochi"
+  },
+  {
+    "country":"Singapore",
+    "region":"Asia",
+    "raceCount":11,
+    "lat":1.2914,
+    "lng":103.864,
+    "location":"Marina Bay"
+  },
+  {
+    "country":"South Africa",
+    "region":"Africa",
+    "raceCount":23,
+    "lat":-29.519,
+    "lng":27.97515,
+    "location":"Eastern Cape Province, Midrand"
+  },
+  {
+    "country":"Spain",
+    "region":"Europe",
+    "raceCount":55,
+    "lat":40.1851666667,
+    "lng":-0.5703278333,
+    "location":"Barcelona, Jerez de la Frontera, Madrid,"
+  },
+  {
+    "country":"Sweden",
+    "region":"Europe",
+    "raceCount":6,
+    "lat":57.2653,
+    "lng":13.6042,
+    "location":"Anderstorp"
+  },
+  {
+    "country":"Switzerland",
+    "region":"Europe",
+    "raceCount":5,
+    "lat":46.9589,
+    "lng":7.40194,
+    "location":"Bern"
+  },
+  {
+    "country":"Turkey",
+    "region":"Europe",
+    "raceCount":7,
+    "lat":40.9517,
+    "lng":29.405,
+    "location":"Istanbul"
+  },
+  {
+    "country":"UAE",
+    "region":"Middle East",
+    "raceCount":10,
+    "lat":24.4672,
+    "lng":54.6031,
+    "location":"Abu Dhabi"
+  },
+  {
+    "country":"UK",
+    "region":"Europe",
+    "raceCount":72,
+    "lat":52.43575,
+    "lng":-1.267431,
+    "location":"Castle Donington, Kent, Liverpool, Silve"
+  },
+  {
+    "country":"USA",
+    "region":"North America",
+    "raceCount":69,
+    "lat":35.20928,
+    "lng":-98.46611,
+    "location":"Austin, California, Dallas, Detroit, Flo"
+  }
+]
